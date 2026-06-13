@@ -10,3 +10,6 @@
 12. Скриншот Gitlens после переключения на main
 ![Скриншот](docs/screenshots/11_branch_graph.jpg)
 
+## Этап 3. Ветка feature/subjects: независимая разработка
+20. Скриншот GitLens (до слияния)
+![Скриншот](docs/screenshots/20_branch_graph.jpg)
